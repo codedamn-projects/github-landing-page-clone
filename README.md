@@ -1,6 +1,6 @@
 # codedamn - Github landing page clone
 
-![Design for the project](./assets/desktop-design-non-fs.jpg)
+![Design for the project](https://raw.githubusercontent.com/codedamn-projects/github-landing-page-clone/main/assets/desktop-design-non-fs.jpg)
 
 ## Hello developer!
 
